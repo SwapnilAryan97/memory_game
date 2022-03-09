@@ -1,5 +1,8 @@
 const cardArray = [
+   {
     name: 'fries',
+    
+   }
 
 
 ]
